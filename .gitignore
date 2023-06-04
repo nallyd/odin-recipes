@@ -1,3 +1,2 @@
-# Ignore images, uncessary upload
-img/*
+# Ignore .swp files that may be created during editing
 *.swp
