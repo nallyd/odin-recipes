@@ -1,2 +1,3 @@
 # Ignore images, uncessary upload
 img/*
+*.swp
