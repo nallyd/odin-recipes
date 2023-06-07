@@ -1,21 +1,29 @@
+html {
+	padding: 10px;
+}
+
 body {
 	font-family: "Arial", sans-serif;
-	max-width: 960px;
-	margin: auto;
+	max-width: 800px;
+	margin: 10px auto;
 	background-color: #e3e3e3;
 	line-height: 1.5;
 }
 
+ul {
+	list-style-type: none;
+}
+
 body img {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 8px auto;
 }
 
 h1 {
 	color: white;
 	background-color: darkred;
 	border-radius: 15px;
+	border: 5px solid orange;
 	font-size: 32px;
 }
 
@@ -30,14 +38,15 @@ h1.banner {
 	padding-left: 25px;
 	background-color: darkred;
 	border-radius: 15px;
+	border: 5px solid orange;
 	vertical-align: middle;
 	text-align: center;
 }
 
 .recipes {
+	border: 5px dotted black;
 	background-color: #705747;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding: 10px;
 	border-radius: 25px;
 }
 
