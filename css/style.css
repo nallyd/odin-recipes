@@ -1,0 +1,24 @@
+body {
+	font-family: Helvetica, sans-serif;
+	background-color: #E1EEF2;
+	text-align: center;
+}
+
+h1 {
+	font-size: 34px;
+	background-color: #1B7593;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+	font-size: 24px;
+}
+
+ul li {
+	margin: 10px 0;
+}
+
+a {
+	color: orange;
+}

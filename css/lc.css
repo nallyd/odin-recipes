@@ -1,0 +1,38 @@
+body {
+	font-family: Helvetica, sans-serif;
+	background-color: #F0E68C;
+	width: 70%;
+	margin: auto;
+}
+
+h1,
+h2 {
+	background-color: #DAA520;
+	text-align: center;
+}
+
+.img-container {
+	text-align: center;
+}
+
+img {
+	height: 400px;
+	width: auto;
+}
+
+p {
+	text-align: center;
+}
+
+ul,
+ol {
+	padding: 15px;
+	background-color: #DAA520;
+	border-radius: 15px 35px;
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+ol {
+	list-style-type: upper-roman;
+}
