@@ -4,10 +4,24 @@ body {
 	text-align: center;
 }
 
-h1 {
-	font-size: 34px;
+.header {
+	display: flex;
+	flex-wrap: nowrap;
+	padding-left: 10px;
+	padding-right: 10px;
+	align-items: center;
 	background-color: #1B7593;
+}
+
+.header img {
+	height: 40px;
+	width: auto;
+}
+
+.header h1 {
+	font-size: 34px;
 	color: white;
+	flex-grow: 1;
 }
 
 ul {

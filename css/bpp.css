@@ -3,6 +3,26 @@ body {
 	background-color: #93C572;
 	width: 70%;
 	margin: auto;
+	margin-top: 5px;
+}
+
+.header {
+	display: flex;
+	flex-wrap: nowrap;
+	padding-left: 10px;
+	padding-right: 10px;
+	align-items: center;
+	background-color: #8A9A5B;
+	margin-bottom: 5px;
+}
+
+.header img {
+	height: 40px;
+	width: auto;
+}
+
+.header h1 {
+	flex-grow: 1;
 }
 
 h1,
